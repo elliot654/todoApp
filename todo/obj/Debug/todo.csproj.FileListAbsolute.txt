@@ -1,0 +1,10 @@
+C:\Users\elliot\source\repos\todo\todo\bin\Debug\todo.exe.config
+C:\Users\elliot\source\repos\todo\todo\bin\Debug\todo.exe
+C:\Users\elliot\source\repos\todo\todo\bin\Debug\todo.pdb
+C:\Users\elliot\source\repos\todo\todo\obj\Debug\todo.csprojAssemblyReference.cache
+C:\Users\elliot\source\repos\todo\todo\obj\Debug\todo.Form1.resources
+C:\Users\elliot\source\repos\todo\todo\obj\Debug\todo.Properties.Resources.resources
+C:\Users\elliot\source\repos\todo\todo\obj\Debug\todo.csproj.GenerateResource.cache
+C:\Users\elliot\source\repos\todo\todo\obj\Debug\todo.csproj.CoreCompileInputs.cache
+C:\Users\elliot\source\repos\todo\todo\obj\Debug\todo.exe
+C:\Users\elliot\source\repos\todo\todo\obj\Debug\todo.pdb
