@@ -83,6 +83,7 @@ namespace todo
             var list = new List<string>(lines);
             list.Add(txtNew.Text);
             File.WriteAllLines("saveData/todolist.txt",list);
+            txtNew.Clear();
             Form1_Load(null, EventArgs.Empty);
         }
     }
